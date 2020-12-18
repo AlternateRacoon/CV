@@ -2,7 +2,7 @@
 # Basic Information
 
 Father Name: Muhammad Tahaullah Khan
- Date of birth: 25-December-2020
+ Date of birth: 25-December-2006
  GITHUB: https://github.com/AlternateRacoon
 
 #
