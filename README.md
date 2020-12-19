@@ -22,7 +22,7 @@ Pygame, Flask, Pycharm and Atom.
 
 # Experience
 
-Sastaticket.pk – Python Trainee (June-2019 till August 2019)
+Sastaticket.pk – Python Trainee (December 2019 till January 2020)
 
 Fiverr – Freelancing Python Projects
 
